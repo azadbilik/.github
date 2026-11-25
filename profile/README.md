@@ -9,9 +9,11 @@
 | | |
 |---|---|
 | [**kitabxana**](https://github.com/azadbilik/kitabxana) | [kitabxana.az](https://kitabxana.az): Azərbaycan ədəbiyyatının onlayn kitabxanası. Klassik və müasir əsərlər, tərcümələr, mənbə nəşrlərin skanları.<br>*Online library of Azerbaijani literature: classical and modern works, translations, scans of the source editions.* |
+| [**xerite**](https://github.com/azadbilik/xerite) | [Ədəbiyyat xəritəsi](https://azadbilik.org/xerite/): müəlliflərin doğulduğu və vəfat etdiyi yerlər, əsrlər üzrə.<br>*Literary map: where the authors were born and died, century by century.* |
+| [**data**](https://github.com/azadbilik/data) | Açıq məlumatlar (CC0): kitabxananın kataloqu, CSV.<br>*Open data (CC0): kitabxana's catalogue as CSV.* |
 
-Sırada: xəritələr, musiqi arxivi, təsvir qalereyası, məlumat vizuallaşdırmaları.<br>
-*Next: maps, a music archive, an image gallery, data visualisations.*
+Sırada: təsvir qalereyası, musiqi arxivi.<br>
+*Next: an image gallery, a music archive.*
 
 ### Prinsiplər · Principles
 
