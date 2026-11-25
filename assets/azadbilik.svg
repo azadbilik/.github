@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>Azad Bilik</title>
+  <rect width="512" height="512" fill="#1A1410"/>
+  <g fill="#F4EFE6">
+    <rect x="126" y="126" width="260" height="260"/>
+    <polygon points="256,72 440,256 256,440 72,256"/>
+  </g>
+  <polygon points="256,186 326,256 256,326 186,256" fill="#A81E28"/>
+</svg>
